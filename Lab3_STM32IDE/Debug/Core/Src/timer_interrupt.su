@@ -1,0 +1,3 @@
+timer_interrupt.c:10:6:setTimer	16	static
+timer_interrupt.c:18:5:isTimerFlag	16	static
+timer_interrupt.c:29:6:timerRun	16	static
