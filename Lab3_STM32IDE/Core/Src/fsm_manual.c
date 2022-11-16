@@ -6,7 +6,7 @@
 #define INIT 1
 #define MAN_RED 2
 #define MAN_AMBER 3
-#define MAN_GREEN 4
+#define MAN_GREEN 5
 //Time for fsm
 #define RETURN_INIT 10000
 
